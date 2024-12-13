@@ -44,13 +44,7 @@
 
 ---
 <br></br>
-## 🚀 Live Demo 
 
-- Click Below
-
- <a href="https://astro-gpt-eta.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
 
 ---
 <br></br>
